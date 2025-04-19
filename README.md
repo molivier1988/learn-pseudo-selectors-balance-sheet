@@ -4,6 +4,10 @@
 
 A small number of pseudo-selectors and further styling of tables.
 
+## Key words
+
+```clip``` | ```clip=path``` | ```:first-of-type``` | ```:last-of-type``` | ```span[class]``` | ```:not``` | ```[attribute="value``` |
+
 ### Tables
 
 Table elements can use captions that describe what data the table holds, useful not only for typical users but also screen readers. Caption elements should **_always be the 1st child_** of a table.
